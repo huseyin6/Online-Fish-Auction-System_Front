@@ -1,0 +1,1 @@
+export const api = 'https://protected-refuge-39487.herokuapp.com/api';
